@@ -1,0 +1,33 @@
+# データ処理
+numpy>=1.24.0
+pandas>=2.0.0
+
+# 機械学習
+scikit-learn>=1.3.0
+
+# 高度なモデル
+xgboost>=2.0.0
+lightgbm>=4.0.0
+
+# データ可視化
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# ハイパーパラメータ最適化
+optuna>=3.0.0
+
+# Jupyter環境
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# データ分析補助
+scipy>=1.11.0
+joblib>=1.3.0
+
+# 評価指標とユーティリティ
+imbalanced-learn>=0.11.0  # 不均衡データ対応
+
+# ディープラーニング(必要に応じて)
+# torch>=2.0.0
+# torchvision>=0.15.0
+# tensorflow>=2.13.0
