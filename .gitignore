@@ -12,10 +12,6 @@ venv/
 env/
 ENV/
 
-# Jupyter Notebook
-.ipynb_checkpoints/
-*.ipynb_checkpoints
-
 # Python version management
 .python-version
 
@@ -27,15 +23,13 @@ ENV/
 *~
 
 # Data files (often large and sensitive)
-input/
-output/
 data/
-*.csv
 *.xlsx
 *.json
 *.h5
 *.pkl
 *.pickle
+*.png
 
 # Model files
 *.pth

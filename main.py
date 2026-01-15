@@ -102,3 +102,4 @@ plt.tight_layout()
 plt.savefig('output/feature_importance.png', dpi=300, bbox_inches='tight')
 print("特徴量重要度を output/feature_importance.png に保存しました")
 plt.close()
+
