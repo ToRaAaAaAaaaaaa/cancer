@@ -29,7 +29,6 @@ data/
 *.h5
 *.pkl
 *.pickle
-*.png
 
 # Model files
 *.pth
